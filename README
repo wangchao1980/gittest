@@ -5,3 +5,4 @@ git remote add origin https://github.com/wangchao1980/gittest.git
 git push -u origin master
 
 
+git config --global user.name "wangchao1980"
