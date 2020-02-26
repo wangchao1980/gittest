@@ -6,3 +6,8 @@ git push -u origin master
 
 
 git config --global user.name "wangchao1980"
+
+git config --global user.email "wangchao_cn@qq.com"
+
+
+git merge test
